@@ -2,10 +2,10 @@
 sampleForm
 
 ## Table of Contents
-- [Description & General Info]()
-- [Languages & Technologies]()
-- [Setup & Use]()
-- [Licensing Information]()
+- [Description & General Info](https://github.com/briennekordis/sampleForm#description--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/sampleForm#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/sampleForm#setup--use)
+- [Licensing Information](https://github.com/briennekordis/sampleForm#licensing-information)
 
 
 ## Description & General Info
