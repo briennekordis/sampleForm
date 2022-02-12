@@ -9,11 +9,18 @@ sampleForm
 
 
 ## Description & General Info
-Setting a form with validation from Formik
+This project simulates a login form, using validation from the Formik library.
 
 ## Languages & Technologies
+- HTML
+- CSS
+- JavaScript
+- Formik
 
 ## Setup & Use
+1. Download or clone the project's repository.
+2. Navigate to the directory of the project from your command line.
+3. Run `npm start` in your commmand line. (Make sure you have Node installed!) This should start the project in a new tab of your default broswer.
 
 ## Licensing Information 
 This code was written for the MITxPro's Full Stack Developer Course.
